@@ -15,7 +15,7 @@ body {
     background-color: var(--clr-primary);
     font-family: 'poppins';
     position: relative;
-    background: url(/img-1.jpg);
+    background: url(/img-2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -32,18 +32,18 @@ body {
     padding: 2%;
     background: transparent;
     border-radius: 20px;
-    border:3px solid rgba(257,257,257,0.9);
+    border:3px solid #242156;
     backdrop-filter: blur(30px);
 }
 .clock{
-    color: #fff;
+    color: #242156;
     font-family: "Arial", sans-serif;
     font-size: 48px;
     letter-spacing: 2px;
 }
   
 .date{
-    color: #fff;
+    color: #242156;
     font-family: "Arial", sans-serif;
     font-size: 24px;
     letter-spacing: 2px;
